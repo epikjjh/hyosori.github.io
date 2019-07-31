@@ -1,4 +1,10 @@
-# 오소리 기술 블로그
+---
+title: 기술블로그 글쓰기 가이드
+date: 2018-03-30 13:24:30
+author: CameliaOvO
+githublink: https://github.com/CameliaOvO
+tags: [guide]
+---
 
 ## Hexo를 몰라도 쓸 수 있는 글쓰기 가이드
 
@@ -25,4 +31,3 @@ tags:              # 태그 목록 [태그1, 태그2, ... ] 가능하다면 영�
 
 1. 이미지 파일은 `source/images`에 업로드 후 `/images/imageName.png`와 같이 사용하시면 됩니다.
 1. 디자인 센스가 극악이라 저게 최선이었습니다. 디자인 변경 PR **언제든지 환영합니다.**
-
